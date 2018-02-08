@@ -1,0 +1,221 @@
+RuntimeWarning: DateTimeField Note.updateTime received a naive datetime (2017-12-20 12:41:01) while time zone support is active.
+{'cate_id': 1, 'content': '科学家都是偏执狂，诗人都是抑郁症……职业精英，都是一群强迫症。', 'createTime': '2017-12-20 12:39:39', 'encrypted': 0, '_id': 0, 'isDelete': 0, 'isFinish': 1, 'isUpdate': 0, 'lastviewtime': '2017-12-20 12:41:01', 'title': '悟·人以群分', 'updateTime': '2017-12-20 12:41:01'} <class 'dict'>
+  RuntimeWarning)
+
+
+{
+  "code": "00",
+  "message": "成功",
+  "processTime": "2018-01-18 15:43:21",
+  "data": [
+    {
+      "_id": 1,
+      "filename": "照片_2017_02_12_12_14_35.jpg",
+      "filepath": "http://files.note.sdo.com/FkvEO~ma9OHB6u0bs0020F",
+      "filesize": 2540147,
+      "filetype": 0,
+      "uploadTime": "2017-02-12 12:15:02",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 5
+    },
+    {
+      "_id": 2,
+      "filename": "9cf1ca3935c34a7dbae94c74769b42a8.jpg",
+      "filepath": "http://files.note.sdo.com/FkvEO~llOhj56u024003g1",
+      "filesize": 28856,
+      "filetype": 0,
+      "uploadTime": "2015-05-20 21:51:20",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 179
+    },
+    {
+      "_id": 3,
+      "filename": "Screenshot_2015-03-31-11-22-06.jpeg",
+      "filepath": "http://files.note.sdo.com/FkvEO~lhEj8q4M3oA001WT",
+      "filesize": 295659,
+      "filetype": 0,
+      "uploadTime": "2015-03-31 11:23:04",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 208
+    },
+    {
+      "_id": 4,
+      "filename": "177aad63e5a6ad25b6d1ce48b494abc1.jpg",
+      "filepath": "http://files.note.sdo.com/FkvEO~llGVuR6u04I004Bi",
+      "filesize": 63468,
+      "filetype": 0,
+      "uploadTime": "2015-05-19 12:17:40",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 232
+    },
+    {
+      "_id": 5,
+      "filename": "20eed57ded0fe19ae01f715564988f6b.jpg",
+      "filepath": "http://files.note.sdo.com/FkvEO~llGVv56u04I004Bk",
+      "filesize": 55480,
+      "filetype": 0,
+      "uploadTime": "2015-05-19 12:17:42",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 232
+    },
+    {
+      "_id": 6,
+      "filename": "470c82a1a17c5a661381ace84bf8c40f.jpg",
+      "filepath": "http://files.note.sdo.com/FkvEO~llGVu56u04I004Bc",
+      "filesize": 45981,
+      "filetype": 0,
+      "uploadTime": "2015-05-19 12:17:31",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 232
+    },
+    {
+      "_id": 7,
+      "filename": "4d1c9304db30dc3f8626b574c235a527.jpg",
+      "filepath": "http://files.note.sdo.com/FkvEO~llGVuB6u04I004Bg",
+      "filesize": 58051,
+      "filetype": 0,
+      "uploadTime": "2015-05-19 12:17:37",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 232
+    },
+    {
+      "_id": 8,
+      "filename": "4d49f81a7e151fa333108990b0e8f697.jpg",
+      "filepath": "http://files.note.sdo.com/FkvEO~llGVuB6u04I004Be",
+      "filesize": 63727,
+      "filetype": 0,
+      "uploadTime": "2015-05-19 12:17:35",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 232
+    },
+    {
+      "_id": 9,
+      "filename": "afd4f092a26fd9f7666a34a8a55033fa.jpg",
+      "filepath": "http://files.note.sdo.com/FkvEO~llGVul6u04I004Bd",
+      "filesize": 55761,
+      "filetype": 0,
+      "uploadTime": "2015-05-19 12:17:32",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 232
+    },
+    {
+      "_id": 10,
+      "filename": "b8ae24bcb77611fa3e0162f5c7c0b7a6.jpg",
+      "filepath": "http://files.note.sdo.com/FkvEO~llGVuR6u04I004Bh",
+      "filesize": 69075,
+      "filetype": 0,
+      "uploadTime": "2015-05-19 12:17:38",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 232
+    },
+    {
+      "_id": 11,
+      "filename": "d2928f21a193d0311b4862058c808e7e(1).jpg",
+      "filepath": "http://files.note.sdo.com/FkvEO~llGVtR6u04I004Bb",
+      "filesize": 57336,
+      "filetype": 0,
+      "uploadTime": "2015-05-19 12:17:29",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 232
+    },
+    {
+      "_id": 12,
+      "filename": "d2928f21a193d0311b4862058c808e7e.jpg",
+      "filepath": "http://files.note.sdo.com/FkvEO~llGVtB6u04I004B9",
+      "filesize": 57336,
+      "filetype": 0,
+      "uploadTime": "2015-05-19 12:17:17",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 232
+    },
+    {
+      "_id": 13,
+      "filename": "照片_2017_11_15_20_24_49.jpg",
+      "filepath": "",
+      "filesize": 3194627,
+      "filetype": 0,
+      "uploadTime": "2017-11-15 20:25:03",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 278
+    },
+    {
+      "_id": 14,
+      "filename": "录音_2017_11_15_20_25_07.amr",
+      "filepath": "",
+      "filesize": 39494,
+      "filetype": 0,
+      "uploadTime": "2017-11-15 20:25:33",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 278
+    },
+    {
+      "_id": 15,
+      "filename": "录音_2017_11_15_20_27_38.amr",
+      "filepath": "",
+      "filesize": 39110,
+      "filetype": 0,
+      "uploadTime": "2017-11-15 20:28:03",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 279
+    },
+    {
+      "_id": 16,
+      "filename": "照片_2017_12_25_13_50_51.jpg",
+      "filepath": "",
+      "filesize": 5378422,
+      "filetype": 0,
+      "uploadTime": "2017-12-25 13:50:57",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 299
+    },
+    {
+      "_id": 17,
+      "filename": "录音_2017_12_25_13_52_04.amr",
+      "filepath": "",
+      "filesize": 4614,
+      "filetype": 0,
+      "uploadTime": "2017-12-25 13:52:07",
+      "isFinish": 0,
+      "isUpdate": 0,
+      "isDelete": 0,
+      "note_id": 299
+    }
+  ]
+}
+
+
+/noteservice?channel=baidu&code=C001
+
+http://192.168.191.4:8088/noteservice?{"code":"C201","data":{"cate_id":2,"content":"yfscbjj","createTime":"2018-02-03 15:16:47","encrypted":0,"_id":388,"isDelete":0,"isFinish":0,"isUpdate":0,"title":"such hui","updateTime":"2018-02-03 15:16:47"}}
